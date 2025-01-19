@@ -1,8 +1,8 @@
 package ex_01_Java_Basics;
 
-public class Lab001_HelloWorldProgram
+public class PracticeProgram
 {
     public static void main(String[] args) {
-        System.out.println("Hi, Suwaitha");
+        System.out.println(2+2);
     }
 }
